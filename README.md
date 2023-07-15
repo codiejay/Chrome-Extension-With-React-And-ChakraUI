@@ -2,6 +2,8 @@ This video below shows you how to install and run this chrome extension in x-min
 BUT read docs for the webpack file. That's quiet complex but you could skip it and still be golden.
 Enjoy:
 
+  https://www.loom.com/share/c499f52cf16a4a2090cffc29fc721915?sid=e9be62c4-29a6-4291-84ab-9198856c4c68
+
 # Docs for webpack.config.js file
 
 ## TL;DR
