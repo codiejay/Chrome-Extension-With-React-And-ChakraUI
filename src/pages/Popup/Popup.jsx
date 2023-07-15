@@ -9,7 +9,7 @@ const Popup = () => {
         <Heading fontSize="1.2rem" mb="1rem" size="lg" color="gray.700">
           🎉 Congrats! Your extension is working! 🎉
         </Heading>
-        <Text>It is powered by <Link href="chakraui.com">ChakraUI</Link> and <Link href="reactorg.com">React</Link></Text>
+        <Text>It is powered by <Link target="_blank" href="https://https://chakra-ui.com/docs/components/">ChakraUI</Link> and <Link target="_blank" href="https://react.dev/learn">React</Link></Text>
       </Flex>
     </Flex>
   );
