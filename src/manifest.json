@@ -1,0 +1,12 @@
+{
+  "version": "2.2.2",
+  "manifest_version": 3,
+  "permissions": [],
+  "background": {
+    "service_worker": "background.bundle.js"
+  },
+  "icons": {
+    "16": "extensionLogo.png",
+    "128": "extensionLogo.png"
+  }
+}
